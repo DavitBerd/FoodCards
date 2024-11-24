@@ -1,11 +1,4 @@
-@font-face {
-  font-family: "Opensans";
-  src: url(fonts/Open_Sans/OpenSans-VariableFont_wdth_wght.ttf);
-}
-@font-face {
-  font-family: "DMSerifDisplay";
-  src: url(fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf);
-}
+
 body {
   display: grid;
   background-color: #eeeeee;
